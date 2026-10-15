@@ -17,7 +17,7 @@ I’m xDele1ed. I love Developing plugins, systems, and experiences that turn Mi
 👯 &nbsp;I'm looking to collaborate on **Any minecraft work**  
 💬 &nbsp;Ask me about **Minecraft plugins**  
 😄 &nbsp;Pronouns: **he/him**  
-⚡ &nbsp;Fun fact: **I use windows btw(not really a flex. But it works :))**
+⚡ &nbsp;Fun fact: **I use Arch BTW**
 
 ### 🛠️ Tech Stack
 
